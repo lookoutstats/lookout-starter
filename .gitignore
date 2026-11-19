@@ -4,5 +4,7 @@ out
 next-env.d.ts
 *.tsbuildinfo
 .vercel
-.env*.local
+# Any env file: tokens stay out of git (keep a committed example as .env.example).
+.env*
+!.env.example
 .DS_Store

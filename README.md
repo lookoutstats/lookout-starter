@@ -19,6 +19,8 @@ It doesn't depend on any service but Vercel's own analytics.
 2. **Turn on two switches.** In the Vercel dashboard, open the project and click **Enable** on the **Analytics** tab and on the **Speed Insights** tab.
 3. **Optional: see every project on one board.** [Lookout](https://lookoutstats.com/?utm_source=lookout-starter&utm_medium=readme&utm_campaign=starter) reads the same data for all your Vercel projects with a read-only token.
 
+More about the starter, with a prompt that adds the same pieces to an existing project: [lookoutstats.com/starter](https://lookoutstats.com/starter?utm_source=lookout-starter&utm_medium=readme&utm_campaign=starter).
+
 ## Conversion events
 
 ```tsx
